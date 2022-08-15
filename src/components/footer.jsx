@@ -1,5 +1,7 @@
-export default function Footer(){
+function Footer(){
     return(
-        <div class="text-9xl">Hello world</div>
+        <div></div>
     )
 }
+
+export default Footer
