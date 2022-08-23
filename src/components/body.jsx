@@ -20,11 +20,11 @@ function Body(){
 <div class="h-full bg-slate-800">black</div>{/*third page*/}
 /*body*/ <nav>
 <ul className='hidden md:flex gap-14 p- uppercase bg-white/10 '>
-            <li>Home</li>
-            <li>About</li>
-            <li>Departments</li>
-            <li>Team</li>
-            <li>Achievements</li>
+            <li>Electrical</li>
+            <li>Mechanical</li>
+            <li>Design</li>
+            <li>Corporate</li>
+            <li>coding</li>
             
         </ul>
         </nav>
